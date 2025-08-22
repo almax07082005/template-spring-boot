@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="index" type="HttpClient.HttpRequestRunConfigurationType"
+                   factoryName="HTTP Request" path="$PROJECT_DIR$/src/main/resources/index.http"
+                   executionIdentifier="#1">
+        <method v="2"/>
+    </configuration>
+</component>

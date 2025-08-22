@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: 'template-spring-boot'
+  jpa:
+    hibernate:
+      ddl-auto: none
+  datasource:
+    username: 'admin'
+    password: 'secret'
+    url: 'jdbc:postgresql://localhost:5432/template-spring-boot-db'
