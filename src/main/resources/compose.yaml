@@ -11,3 +11,8 @@ services:
       - 'POSTGRES_PASSWORD=secret'
     ports:
       - '5432:5432'
+  template-spring-boot-kafka:
+    container_name: 'template-spring-boot-kafka'
+    image: 'apache/kafka:latest'
+    ports:
+      - '9092:9092'

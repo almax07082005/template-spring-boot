@@ -1,0 +1,4 @@
+GET http://localhost:8080/kafka-producer
+Accept: application/json
+
+###

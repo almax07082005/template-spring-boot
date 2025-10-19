@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="kafka-producer" type="HttpClient.HttpRequestRunConfigurationType"
+                   factoryName="HTTP Request" environment="&lt;No Environment&gt;"
+                   path="$PROJECT_DIR$/src/main/resources/kafka-producer.http" executionIdentifier="#1">
+        <method v="2"/>
+    </configuration>
+</component>
